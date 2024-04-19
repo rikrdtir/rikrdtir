@@ -29,15 +29,15 @@ You can use the website to generate badges: https://shields.io/
 &nbsp;
 
 <p align="center" >
-  <code><img width="8%" src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg"></code>
-  <code><img width="8%" src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg"></code> | 
-  <code><img width="8%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></code>
-  <code><img width="8%" src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg"></code>
+  <code><img width="9%" src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg"></code>
+  <code><img width="9%" src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg"></code> | 
+  <code><img width="9%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></code>
+  <code><img width="9%" src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg"></code>
   <br />
   <br />
   <br />
-  <code><img width="8%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
-  <code><img width="8%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></code>
+  <code><img width="9%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
+  <code><img width="9%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></code>
   <!--- <code><img width="15%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code> -->
   <!--- <code><img width="15%" src="https://www.vectorlogo.zone/logos/redis/redis-ar21.svg"></code> -->
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
@@ -52,11 +52,11 @@ You can use the website to generate badges: https://shields.io/
 **I love:**
 <p align="center">
 
-<code><img width="7%" src="https://www.vectorlogo.zone/logos/neovimio/neovimio-ar21.svg"></code>
-<code><img width="7%" src="https://www.vectorlogo.zone/logos/gnome/gnome-ar21.svg"></code> | 
+<code><img width="9%" src="https://www.vectorlogo.zone/logos/neovimio/neovimio-ar21.svg"></code>
+<code><img width="9%" src="https://www.vectorlogo.zone/logos/gnome/gnome-ar21.svg"></code> | 
 <code><img width="5%" src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg"></code> |
-<code><img width="7%" src="https://www.vectorlogo.zone/logos/archlinux/archlinux-ar21.svg"></code>
-<code><img width="7%" src="https://www.vectorlogo.zone/logos/getfedora/getfedora-ar21.svg"></code>
+<code><img width="9%" src="https://www.vectorlogo.zone/logos/archlinux/archlinux-ar21.svg"></code>
+<code><img width="9%" src="https://www.vectorlogo.zone/logos/getfedora/getfedora-ar21.svg"></code>
 
 </p>
 
