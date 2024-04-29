@@ -19,7 +19,7 @@ You can use the website to generate badges: https://shields.io/
 **About Me:**
 
 <!--- I’m currently working on __[Chalkboard](https://github.com/zjayers/chalkboard)__. -->
-- Currently program in __java__, & __typescript__.
+- I'm programming in __java__, & __typescript__.
 - I´m currently specializing as a backend programmer
 - Computer and IT teacher
 
